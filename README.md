@@ -12,3 +12,9 @@ In the example file, we use some rather straightforward Javascript (no jquery or
 dependencies) to create our request and return whatever response we get as a result, and log 
 that in our database. By substituting in our values into the HTML used to perform the request, 
 we can easily reuse this code for lots of different purposes.
+
+Read more here:
+http://www.soliantconsulting.com/blog/2014/11/filemaker-and-javascript-ajax-post
+
+Video walk through:
+http://youtu.be/B_pArX3W61U
